@@ -1,6 +1,7 @@
 # S3 Explained 
-S3 is an AWS service that allows you to store any kind of data , and the data is stored in `buckets`. 
-S3 is an object storage, not a file system, that means all data in a buck will have: 
+S3 is an AWS service that allows you to store any kind of data , and the data is stored in `buckets` (A bucket is a container for objects). 
+
+S3 is an object storage, not a file system, that means all data in a bucket  will have: 
 
 Object = Data + Metadata + Identifier (Key)
 
