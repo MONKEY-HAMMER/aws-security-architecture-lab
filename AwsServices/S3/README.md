@@ -157,6 +157,9 @@ This command will dump the S3 Bucket specified
 ```bash 
 aws s3 ls s3://{bucket-name} --no-sing-request
 ```
+
+This command will list all the objects in the Bucket 
+
 ---
 ### EC2 & S3 Misconfiguration – AMI Exposure Risk
 
